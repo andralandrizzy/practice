@@ -1,0 +1,19 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(181, 184, 178, 0.89);
+    margin: 2rem;
+    padding: 0%;
+}
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: rgb(147, 144, 161);
+    color: rgba(209, 8, 8, 0.967);
+
+}
+h2.lead{
+    color: rgb(196, 11, 11);
+    text-transform: capitalize;
+}
